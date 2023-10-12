@@ -1,0 +1,38 @@
+body{
+    background-image: url(ludoking.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.gameone, .gametwo, .gamethree, .gamefour{
+    border: 4px groove grey;
+    background-color: antiquewhite;
+    font-size: 20px;
+    color:crimson;
+    width: 40%;
+    padding: 8px;
+}
+.sowmya{
+    height: 50px;
+    width: 25%;
+    background-color: cadetblue;
+    font-size: 20px;
+    color: aquamarine;
+    border-radius: 30px;
+}
+h1{
+    height:60px;
+    width: 20%;
+    border-radius: 50px;
+    font-size: 30px;
+    color: darkgreen;
+    background-color: cyan;
+    padding: 7px;
+}
+h2{
+    height: 80px;
+    width: 30%;
+    border-radius: 25px;
+    font-size: 25px;
+    color: cornflowerblue;
+    background-color: azure;
+}
